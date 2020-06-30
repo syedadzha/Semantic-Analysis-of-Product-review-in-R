@@ -11,3 +11,5 @@ library(ggplot2)
 ### Box plot of product
 <div style="text-align:center"><img src="Capture.JPG" /></div>
 
+### Dataset
+Source: Randomly collect on internet
